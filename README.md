@@ -8,4 +8,4 @@ Random list of friendly robots to filter through
 * React Components and props
 * React State management without Redux
 
-Check it out https://amenchrist.github.io/robofriends/
+Check it out
