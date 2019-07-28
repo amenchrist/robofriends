@@ -6,6 +6,6 @@ Random list of friendly robots to filter through
 * API calls with React
 * Using style node modules like "Tachyons"
 * React Components and props
-* React State management without Redux
+* React State management
 
-Check it out
+Check it out https://amenchrist.github.io/robofriends/
